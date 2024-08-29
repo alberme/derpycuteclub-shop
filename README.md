@@ -1,22 +1,11 @@
-# Hydrogen template: Skeleton
+# derpycuteclub
 
-Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. This template contains a **minimal setup** of components, queries and tooling to get started with Hydrogen.
+An online store bootstrapped with Hydrogen - Shopify’s stack for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/hydrogen-template#SESSION_SECRET=mock%20token&PUBLIC_STORE_DOMAIN=mock.shop)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1579e178-8cb8-4af7-80cf-dcd594eb2aef/deploy-status)](https://app.netlify.com/sites/derpycuteclub/deploys)
 
 - [Check out Hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen)
 - [Get familiar with Remix](https://remix.run/docs/)
-
-## What's included
-
-- Remix 2
-- Hydrogen
-- Shopify CLI
-- ESLint
-- Prettier
-- GraphQL generator
-- TypeScript and JavaScript flavors
-- Minimal setup of components and routes
 
 ## Getting started
 
